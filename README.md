@@ -22,4 +22,4 @@
  ![image_alt]()
 ## ติดต่อ
 Email: 467113@wsk.ac.th
-Github: https://github.com/467113-Phuwakit777
+Github: https://github.com/Phuwakit777
